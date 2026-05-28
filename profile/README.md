@@ -1,13 +1,4 @@
 # kora
-
-**A tecnologia só atinge a sua plenitude quando se torna imperceptível e indispensável.**
-
----
-
-🌐 **[korasoftware.com.br](http://korasoftware.com.br)**
-
----
-
 ## Manifesto
 
 Construímos soluções para que nossos clientes mudem as regras do jogo. Acreditamos que a verdadeira vanguarda reside no poder da simplificação. Transformamos realidades de negócio complexas em tecnologia limpa e funcional. 
@@ -18,4 +9,6 @@ Possibilitamos que as pessoas foquem no que realmente importa e catalisamos o qu
 
 **A tecnologia só atinge a sua plenitude quando se torna imperceptível e indispensável.**
 
+---
+🌐 **[korasoftware.com.br](http://korasoftware.com.br)**
 ---
