@@ -1,5 +1,3 @@
-# Nosso Manifesto
-
 Construímos soluções para que nossos clientes mudem as regras do jogo. Acreditamos que a verdadeira vanguarda reside no poder da simplificação. Transformamos realidades de negócio complexas em tecnologia limpa e funcional. 
 
 Compreendemos com profundidade os desafios dos nossos parceiros para materializar o estado da arte na engenharia. Somos os arquitetos que canalizam a sua ambição desde o plano mais abstrato até a realidade de mercado.
