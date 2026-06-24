@@ -9,7 +9,7 @@ Compreendemos com profundidade os desafios dos nossos parceiros para materializa
 
 Somos os arquitetos que canalizam a sua ambição desde o plano mais abstrato até a realidade de mercado.
 
-Possibilitamos que as pessoas foquem no que realmente importa e catalisamos o que a inovação pode oferecer de mais extraordinário. 
+Possibilitamos que as pessoas foquem no que importa e catalisamos o que a inovação pode oferecer de mais extraordinário. 
 ___
 **A tecnologia só atinge a sua plenitude quando se torna imperceptível e indispensável.**
 
