@@ -1,5 +1,5 @@
 ## Manifesto 
-
+___
 Construímos soluções para que nossos clientes mudem as regras do jogo.
 
 Acreditamos que a verdadeira vanguarda reside no poder da simplificação.
