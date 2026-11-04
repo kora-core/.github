@@ -1,7 +1,7 @@
 ## Manifesto 
 Acreditamos que a verdadeira vanguarda reside no poder da simplificação.
 
-Compreendemos com profundidade os desafios dos nossos parceiros para materializar o estado da arte na engenharia.
+Compreendemos com profundidade os desafios dos nossos parceiros para materializar o estado da arte na tecnologia.
 
 Possibilitamos que as pessoas foquem no que importa e catalisamos o que a inovação pode oferecer de mais extraordinário. 
 
